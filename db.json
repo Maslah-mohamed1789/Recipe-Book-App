@@ -1,0 +1,97 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Ugali",
+        "category": "Staple",
+        "image": "https://i.pinimg.com/236x/d9/4d/47/d94d4764e3d9cb5ea0cc301fc76816d5.jpg",
+        "ingredients": ["2 cups maize flour", "4 cups water"],
+        "instructions": [
+          "Boil water in a pot.",
+          "Add maize flour gradually while stirring.",
+          "Cook until thickened and smooth.",
+          "Serve with vegetables or meat."
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Nyama Choma",
+        "category": "Grilled",
+        "image": "https://i.pinimg.com/564x/c2/43/20/c24320edec80b359656d5f7c8633e0ea.jpg",
+        "ingredients": ["1 kg goat meat", "Salt", "Lemon wedges"],
+        "instructions": [
+          "Marinate meat with salt.",
+          "Grill over charcoal until cooked.",
+          "Serve with kachumbari and ugali."
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Kachumbari",
+        "category": "Salad",
+        "image": "https://i.pinimg.com/236x/9a/81/b5/9a81b5c2be010d754eb9397f9de75eea.jpg",
+        "ingredients": ["2 tomatoes", "1 onion", "Juice of 1 lime", "Cilantro"],
+        "instructions": [
+          "Chop tomatoes and onions.",
+          "Mix with lime juice and cilantro.",
+          "Let it rest for 10 minutes before serving."
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Sukuma Wiki",
+        "category": "Vegetable",
+        "image": "https://i.pinimg.com/236x/3a/c5/ba/3ac5ba934eb9d1db3c679a88afc87126.jpg",
+        "ingredients": ["1 bunch collard greens", "2 tomatoes", "1 onion", "Salt"],
+        "instructions": [
+          "Fry onions and tomatoes.",
+          "Add collard greens and cook until soft.",
+          "Season with salt and serve with ugali."
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Pilau",
+        "category": "Rice Dish",
+        "image": "https://i.pinimg.com/236x/63/46/16/634616a4b5e723b0bcc0ac7a77dada34.jpg",
+        "ingredients": [
+          "2 cups rice",
+          "500g beef",
+          "1 onion",
+          "1 tbsp pilau masala"
+        ],
+        "instructions": [
+          "Fry onions until golden brown.",
+          "Add meat and pilau masala, cook until fragrant.",
+          "Add rice and water, simmer until rice is cooked."
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Chapati",
+        "category": "Flatbread",
+        "image": "https://i.pinimg.com/control/236x/9c/74/32/9c74323e69640aa9ed73faf31ca8efac.jpg",
+        "ingredients": ["3 cups flour", "1 tsp salt", "1 cup water", "2 tbsp oil"],
+        "instructions": [
+          "Knead flour, salt, and water into a dough.",
+          "Let it rest for 30 minutes.",
+          "Roll out and fry until golden brown on both sides."
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Githeri",
+        "category": "Stew",
+        "image": "https://i.pinimg.com/474x/ce/06/f2/ce06f265ad695276f807558da93a5ad2.jpg",
+        "ingredients": ["2 cups maize", "2 cups beans", "1 onion", "2 tomatoes"],
+        "instructions": [
+          "Boil maize and beans until soft.",
+          "Fry onions and tomatoes.",
+          "Add boiled maize and beans, cook for 5 minutes."
+        ]
+      }
+      
+    ]
+  }
+  
+    

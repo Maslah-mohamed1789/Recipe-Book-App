@@ -1,0 +1,60 @@
+body {
+   background:beige;
+   margin: 0;
+   padding: 0;
+ 
+  }
+  .meals-lists {
+    display: grid;
+    gap: 7px;
+    padding: 7%;
+    grid-template-columns: repeat(2, 1fr);
+}
+.meal-container {
+  display: grid;
+  box-shadow: 0 0 15px gray;
+  border-radius: 16px;
+}
+img.meal {
+  width: 100%;
+  border-radius: 16px 16px 1px 1px;
+  height: 75%;
+  object-fit: cover;
+}
+span.mealname {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -31%;
+  font-weight: bold;
+  font-size: 29px;
+}
+button#view {
+  margin: 1%;
+  margin-top: -7%;
+  border-radius: 49px;
+  background: orange;
+}
+.intractions {
+  position: fixed;
+  top: 5vh;
+  left: 5vh;
+  width: 79%;
+  background: orange;
+  height: 83vh;
+  padding: 29px;
+  border-radius: 28px;
+}
+
+   
+
+    
+
+  
+  
+
+  
+
+  
+  
+ 
