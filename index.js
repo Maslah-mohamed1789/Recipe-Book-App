@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", (e)=>{
     e.preventDefault();
+    const API_KEY = "TgEWQqGv2se7aC9tbNK5M4wWCasX4ZNu1JzYzSlY6Xg"
+    const BASE_URL=`https://api.openbrewerydb.org/breweries`;
     
     const mealsLists = document.querySelector(".meals-lists");
     function getMeals(){
@@ -27,7 +29,9 @@ document.addEventListener("DOMContentLoaded", (e)=>{
                             ${data.instructions}
                         </p>
                     </div>`;
+                    
                     document.body.appendChild(instraction);
+                    
                     document.body.addEventListener("click", ()=>{
                         instraction.remove();
                     })

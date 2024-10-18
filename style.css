@@ -16,7 +16,7 @@ body {
   border-radius: 16px;
 }
 img.meal {
-  width: 100%;
+  width: 40%;
   border-radius: 16px 16px 1px 1px;
   height: 75%;
   object-fit: cover;
@@ -45,10 +45,26 @@ button#view {
   padding: 29px;
   border-radius: 28px;
 }
-
+h1{
+  font-size: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
    
-
+h2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+  .meal-search-box{
+    display: grid;
+    justify-content: center;
     
+  }
+
+ 
 
   
   
